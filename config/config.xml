@@ -1,0 +1,51 @@
+<langs>
+	<!-- 以下以K开头的都是文字配置 -->
+	<item key="k001" value="游戏文件下载失败，请刷新重试" />
+	<item key="k002" value="用户名或密码错误" />
+	<item key="k003" value="登录成功" />
+	<item key="k004" value="与服务器的连接中断，请刷新游戏重进" />
+	<item key="k005" value="正在发送登录中" />
+	<item key="k006" value="正在加载服务器信息" />
+	<item key="k007" value="系统:" />
+	<item key="k008" value="我说:" />
+	<item key="k009" value="说:" />
+	<item key="k010" value="对我说:" />
+	<item key="k011" value="你说话的频率太快，喝点茶休息一下" />
+	<item key="k012" value="不能发送空消息" />
+	<item key="k013" value="大喇叭,小喇叭,当前,私聊" />
+	
+	<!-- 错误类型配置 -->
+	<item key="e01" value="下注失败" />
+	<item key="e02" value="其余地方消费了金币 " />
+	<item key="e03" value="押注数据错误" />
+	<item key="e04" value="数据连接错误" />
+	<item key="e05" value="押注时间已过 " />
+	<item key="e06" value="庄家当前押注项不可压 " />
+	<item key="e07" value="少于最少上庄的钱 " />
+	<item key="e08" value="超过最大押注金额" />
+	<item key="e09" value="庄家不能下注" />
+	
+	<!-- 牛牛错误代码 -->
+	<item key="ce01" value="没有空位，加入房间失败" />
+	<item key="ce02" value="用户余额不符合房间要求，不能进入" />
+	<item key="ce03" value="用户余额不符合房间要求，你已被请出房间" />
+	<item key="ce04" value="该桌已经开始游戏" />
+	
+	
+	<!-- 以下c开头用户配置系统文件 -->
+	<!-- 控制聊天发送消息频率的 单位毫秒 -->
+	<item key="c001" value="5000" />
+	
+	<!-- 斗牛专用 -->
+	<item key="cow001" value="cowfirst" />
+	<item key="cow002" value="cowsecond" />
+	<item key="cow003" value="cowthird" />
+	<item key="cow004" value="该座位有人" />
+	<item key="cow005" value="没牛:牛一:牛二:牛三:牛四:牛五:牛六:牛七:牛八:牛九:牛牛:银牛:四炸牛:五花牛:五小牛" />
+	<item key="cow006" value="该桌已经开始游戏" />
+	<item key="cow007" value="50:100:500:1000:5000:10000" />
+	<item key="cow008" value="500:1000:5000:10000:50000:100000" />
+	<item key="cow009" value="5000:10000:50000:100000:500000:1000000" />
+	<item key="cow010" value="游戏已经开始，不能退出" />
+	
+</langs>

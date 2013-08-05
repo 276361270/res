@@ -1,0 +1,19 @@
+<langs>
+  <!-- GameView -->
+  <!-- Alert -->
+  <item key="确定" value="确定"/>
+  <item key="取消" value="取消"/>
+  <!-- Attention -->
+  <!-- Chat -->
+  <item key="label1,label2" value="label1,label2"/>
+  <item key="发送" value="发送"/>
+  <!-- ErrorPanel -->
+  <!-- Game -->
+  <!-- Login -->
+  <item key="用户名：" value="用户名："/>
+  <item key="密  码：" value="密  码："/>
+  <item key="登录" value="登录"/>
+  <item key="重置" value="重置"/>
+  <item key="验证码：" value="验证码："/>
+  <!-- Progress -->
+</langs>
